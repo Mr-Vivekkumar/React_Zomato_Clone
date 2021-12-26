@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Zomato_Clone/static/css/main.025c6b3a.css",
+    "main.js": "/React_Zomato_Clone/static/js/main.59eb8f76.js",
+    "static/js/787.8a4ae154.chunk.js": "/React_Zomato_Clone/static/js/787.8a4ae154.chunk.js",
+    "index.html": "/React_Zomato_Clone/index.html",
+    "main.025c6b3a.css.map": "/React_Zomato_Clone/static/css/main.025c6b3a.css.map",
+    "main.59eb8f76.js.map": "/React_Zomato_Clone/static/js/main.59eb8f76.js.map",
+    "787.8a4ae154.chunk.js.map": "/React_Zomato_Clone/static/js/787.8a4ae154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.025c6b3a.css",
+    "static/js/main.59eb8f76.js"
+  ]
+}
